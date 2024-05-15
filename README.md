@@ -1,16 +1,11 @@
-# chat_app
+# Chat App in Flutter
 
-A new Flutter project.
+### Feactures
+1.  Integration with Firebase.
+2.  Sign Up.
+3.  Sign In.
+4.  Sending Message.
+5.  Chatting History.
+6.  Push Notifications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MergedImages](https://github.com/ZaidAhmed404/chat-app-flutter/assets/123987830/48797d95-a254-440a-a288-84d3c0e6ea29)
