@@ -1,3 +1,6 @@
+![3](https://github.com/ZaidAhmed404/meal-app-flutter/assets/123987830/fc8b9f7f-6b86-4ff5-8c66-d210d0912eeb)
+
+
 # FlutterChat
 
 FlutterChat, your go-to messaging app built with Flutter, offers seamless signup and signin processes for users. Connect effortlessly and chat in real-time with friends and family. Experience smooth navigation and delightful messaging with FlutterChat.
