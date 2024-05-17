@@ -1,4 +1,6 @@
-# Chat App in Flutter
+# FlutterChat
+
+FlutterChat, your go-to messaging app built with Flutter, offers seamless signup and signin processes for users. Connect effortlessly and chat in real-time with friends and family. Experience smooth navigation and delightful messaging with FlutterChat.
 
 ### Feactures
 1.  Integration with Firebase.
